@@ -1,0 +1,16 @@
+###############################
+#                             #
+#           CVAlert           #
+#   Gemaakt door colablikje12 #
+#                             #
+###############################
+
+#Let op!!!! De layout moet er altijd als volgt uitzien.
+# Mededeling: 'en hier je tekst plus kleuren code!'
+
+Mededeling: '&f[&9&lCV&f] &eMEDEDELING:'
+Alert: '&f[&9&lCV&f] &4ALERT:'
+Info: '&f[&9&lCV&f] &6INFO:'
+Event: '&f[&9&lCV&f] &aEVENT:'
+
+tekstkleur: '&f'

@@ -1,0 +1,18 @@
+name: CVAlert
+author: colablikje12
+main: com.jasper.cvalert.Main
+description: Een plugin om een broadcast te versturen.
+version: 1.0
+commands:
+  Mededeling:
+    description:
+      Stuur een mededeling bericht.
+  Info:
+    description:
+      Stuur een info bericht.
+  Event:
+    description:
+      Stuur een event bericht.
+  Alert:
+    description:
+      Stuur een alert bericht.
